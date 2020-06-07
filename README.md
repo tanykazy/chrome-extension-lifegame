@@ -1,2 +1,2 @@
-# chrome-extention-lifegame
+# chrome-extension-lifegame
 Conway's Game of Life
